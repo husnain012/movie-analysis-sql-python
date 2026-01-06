@@ -29,5 +29,6 @@ Analyzes movie dataset to extract business insights using MySQL for data storage
 # Install Python dependencies
 pip install pymysql pandas matplotlib jupyter
 
-# Open Jupyter notebook
-jupyter lab movie_analysis.ipynb
+# Open Jupyter notebook and Run
+
+ movie_analysis.ipynb
